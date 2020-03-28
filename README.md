@@ -51,10 +51,8 @@ C/C++/Java 数据结构
 ### C 数据结构
 ##### <a href="https://github.com/hairrrrr/Date-Structure/tree/master/C%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84">代码</a>
 <br>
-##### [01 算法效率](http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484091&idx=1&sn=f06355cc902e3c648fbef2b1d8fd75c1&chksm=9b51a92aac26203cd4eec1641821092eebeb1f52f1d55e2e558684836090c975222fbbe7dc2f&scene=21#wechat_redirect)
-##### []()
-##### []()
-##### []()
+#####[01 算法效率](http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484091&idx=1&sn=f06355cc902e3c648fbef2b1d8fd75c1&chksm=9b51a92aac26203cd4eec1641821092eebeb1f52f1d55e2e558684836090c975222fbbe7dc2f&scene=21#wechat_redirect)
+
 
 </div>
 
