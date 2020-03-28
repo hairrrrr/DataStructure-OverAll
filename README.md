@@ -17,7 +17,7 @@ C/C++/Java 数据结构
 <br>
 
 <div align="center">
-    //<img src="" width="">
+    <img src="https://github.com/hairrrrr/Data-Structure/blob/master/img/logo.png" width="200px">
 </div>
 
 <br>
@@ -31,13 +31,13 @@ C/C++/Java 数据结构
 <br>
 
 <div>
-	
+
 ## 导航 Navigation 
 #### <a href="#dsc">C 语言数据结构</a>
 #### <a href="#dsjava">Java 数据结构</a>
 #### <a href="#dsmooc">浙大MOOC</a>
 
-	
+
 </div>
 
 
@@ -51,8 +51,8 @@ C/C++/Java 数据结构
 <div id="dsc">
 
 ### C 数据结构
-
-
+#### 线性表
+<a href="https://github.com/hairrrrr/Data-Structure/tree/master/C%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/01%20%E7%BA%BF%E6%80%A7%E8%A1%A8/01%20%E9%A1%BA%E5%BA%8F%E8%A1%A8">01 顺序表</a>
 
  <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484091&idx=1&sn=f06355cc902e3c648fbef2b1d8fd75c1&chksm=9b51a92aac26203cd4eec1641821092eebeb1f52f1d55e2e558684836090c975222fbbe7dc2f&scene=21#wechat_redirect">01 算法效率</a>
 <a href=""></a>
@@ -64,12 +64,14 @@ C/C++/Java 数据结构
 <div id="dsjava">
 
 ### Java 数据结构
-
+#### 线性表
+<a href="https://github.com/hairrrrr/Data-Structure/tree/master/Java%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/01%20%E9%A1%BA%E5%BA%8F%E8%A1%A8%E5%92%8C%E9%93%BE%E8%A1%A8/01%20%E9%A1%BA%E5%BA%8F%E8%A1%A8">01 顺序表</a>
+<a href="https://github.com/hairrrrr/Data-Structure/tree/master/Java%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/01%20%E9%A1%BA%E5%BA%8F%E8%A1%A8%E5%92%8C%E9%93%BE%E8%A1%A8/02%20%E9%93%BE%E8%A1%A8">02 链表</a>
 
 
 
 <a href=""></a>
-
+<a href=""></a>
 
 </div>
 
@@ -87,8 +89,8 @@ C/C++/Java 数据结构
 
 <a href="https://github.com/hairrrrr/Date-Structure/tree/master/%E6%B5%99%E5%A4%A7mooc/02%20%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%84/02%20%E7%BA%BF%E6%80%A7%E8%A1%A8-%E9%93%BE%E5%BC%8F%E5%AD%98%E5%82%A8">02 单链表</a>
 
-
-
+<a href=""></a>
+<a href=""></a>
 
 </div>
 
@@ -106,5 +108,5 @@ C/C++/Java 数据结构
     <p><img width="320px" src="https://github.com/hairrrrr/C-CrashCourse/blob/master/img/QR%20Code/1.png"></img></p>
     学习英语关注她，一个四六级都过了的学姐：
     <p><img width="320px" src="https://github.com/hairrrrr/C-CrashCourse/blob/master/img/QR%20Code/0.jpg"></img></p>
-   
+
 </div>
