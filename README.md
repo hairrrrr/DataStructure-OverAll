@@ -17,7 +17,7 @@ C/C++/Java 数据结构
 <br>
 
 <div align="center">
-    <img src="https://github.com/hairrrrr/Data-Structure/blob/master/img/logo.png" width="200px">
+    <img src="https://github.com/hairrrrr/Data-Structure/blob/master/img/logo.png" width="400px">
 </div>
 
 <br>
@@ -51,10 +51,13 @@ C/C++/Java 数据结构
 <div id="dsc">
 
 ### C 数据结构
-#### 线性表
-<a href="https://github.com/hairrrrr/Data-Structure/tree/master/C%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/01%20%E7%BA%BF%E6%80%A7%E8%A1%A8/01%20%E9%A1%BA%E5%BA%8F%E8%A1%A8">01 顺序表</a>
 
  <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484091&idx=1&sn=f06355cc902e3c648fbef2b1d8fd75c1&chksm=9b51a92aac26203cd4eec1641821092eebeb1f52f1d55e2e558684836090c975222fbbe7dc2f&scene=21#wechat_redirect">01 算法效率</a>
+ 
+ #### 线性表
+ 
+ <a href="https://github.com/hairrrrr/Data-Structure/tree/master/C%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/01%20%E7%BA%BF%E6%80%A7%E8%A1%A8/01%20%E9%A1%BA%E5%BA%8F%E8%A1%A8">01 顺序表</a>
+ 
 <a href=""></a>
 
 </div>
