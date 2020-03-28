@@ -49,7 +49,7 @@ C/C++/Java 数据结构
 <div id="dsc">
 
 ### C 数据结构
-<a href="https://github.com/hairrrrr/Date-Structure/tree/master/C%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84">代码</a>
+***
 <br>
 
  <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484091&idx=1&sn=f06355cc902e3c648fbef2b1d8fd75c1&chksm=9b51a92aac26203cd4eec1641821092eebeb1f52f1d55e2e558684836090c975222fbbe7dc2f&scene=21#wechat_redirect">01 算法效率</a>
@@ -61,8 +61,7 @@ C/C++/Java 数据结构
 <div id="dsjava">
 
 ### Java 数据结构
-
- <a href="https://github.com/hairrrrr/Date-Structure/tree/master/Java%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84">代码</a>
+***
 
 <br>
 
@@ -74,14 +73,13 @@ C/C++/Java 数据结构
 <div id="dsmooc">
 
 ### 浙大MOOC
- <a href="https://github.com/hairrrrr/Date-Structure/tree/master/%E6%B5%99%E5%A4%A7mooc">代码</a>
-
+***
 </br>
 
 #### 线性表
 
-##### <a href="https://github.com/hairrrrr/Date-Structure/tree/master/%E6%B5%99%E5%A4%A7mooc/02%20%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%84/01%20%E7%BA%BF%E6%80%A7%E8%A1%A8-%E9%A1%BA%E5%BA%8F%E5%AD%98%E5%82%A8">01 顺序表</a>
-##### <a href="https://github.com/hairrrrr/Date-Structure/tree/master/%E6%B5%99%E5%A4%A7mooc/02%20%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%84/02%20%E7%BA%BF%E6%80%A7%E8%A1%A8-%E9%93%BE%E5%BC%8F%E5%AD%98%E5%82%A8">02 单链表</a>
+<a href="https://github.com/hairrrrr/Date-Structure/tree/master/%E6%B5%99%E5%A4%A7mooc/02%20%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%84/01%20%E7%BA%BF%E6%80%A7%E8%A1%A8-%E9%A1%BA%E5%BA%8F%E5%AD%98%E5%82%A8">01 顺序表</a>
+<a href="https://github.com/hairrrrr/Date-Structure/tree/master/%E6%B5%99%E5%A4%A7mooc/02%20%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%84/02%20%E7%BA%BF%E6%80%A7%E8%A1%A8-%E9%93%BE%E5%BC%8F%E5%AD%98%E5%82%A8">02 单链表</a>
 
 </div>
 
