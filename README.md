@@ -69,6 +69,7 @@ C/C++/Java 数据结构
 ### Java 数据结构
 #### 线性表
 <a href="https://github.com/hairrrrr/Data-Structure/tree/master/Java%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/01%20%E9%A1%BA%E5%BA%8F%E8%A1%A8%E5%92%8C%E9%93%BE%E8%A1%A8/01%20%E9%A1%BA%E5%BA%8F%E8%A1%A8">01 顺序表</a>
+
 <a href="https://github.com/hairrrrr/Data-Structure/tree/master/Java%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/01%20%E9%A1%BA%E5%BA%8F%E8%A1%A8%E5%92%8C%E9%93%BE%E8%A1%A8/02%20%E9%93%BE%E8%A1%A8">02 链表</a>
 
 
