@@ -1,0 +1,1 @@
+![](https://github.com/hairrrrr/Data-Structure/blob/master/img/LinkedList.png)
