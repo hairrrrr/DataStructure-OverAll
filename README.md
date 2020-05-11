@@ -59,6 +59,8 @@ C/C++/Java 数据结构
 
  <a href="https://github.com/hairrrrr/Data-Structure/tree/master/C%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/01%20%E7%BA%BF%E6%80%A7%E8%A1%A8/01%20%E9%A1%BA%E5%BA%8F%E8%A1%A8">2-1 顺序表</a>
 
+<a href="https://github.com/hairrrrr/Data-Structure/tree/master/C%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/01%20%E7%BA%BF%E6%80%A7%E8%A1%A8/02%20%E9%93%BE%E8%A1%A8">2-2 链表</a>
+<a href=""></a>
 <a href=""></a>
 
 </div>
