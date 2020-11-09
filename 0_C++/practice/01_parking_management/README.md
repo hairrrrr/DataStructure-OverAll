@@ -23,3 +23,44 @@
 容器接口参考：http://cplusplus.com/
 
 计时函数：https://www.cnblogs.com/dwdxdy/p/3214905.html
+
+
+
+### 四 实验反思
+
+1. 在实现双向循环链表的插入操作时，遇到一个 bug。程序如下：
+
+   ```cpp
+   	void push(const T& val)
+   	{
+   		List* node = MakeNode(val);
+   		
+   		node->_next = &_head;
+   		node->_prev = _head._prev;
+   		_head._prev = node;
+   		_head._prev->_next = node;
+           
+   		_size++;
+   	}
+   ```
+
+   问题出在两条语句的顺序。
+
+   `_head._prev = node;` 已经修改了 `_head` 原来的 `_prev` ，下一条语句在想修改原本尾节点的 `_next` 时就出现了问题。应该更改顺序为：
+
+   ```cpp
+   _head._prev->_next = node;	
+   _head._prev = node;
+   ```
+
+2. 实现接口时应该充分考虑用户。比如 `Park` 类中的 `park` 函数原本我想设计为：
+
+   ```cpp
+   void park(Bus& bus);
+   ```
+
+   这样用户在“停车”时需要创建一个 bus 对象，这样成本比较高。起始用户停车时只需要提供车的编号即可。所以将接口修改为：
+
+   ```cpp
+   void park(size_t num);
+   ```
